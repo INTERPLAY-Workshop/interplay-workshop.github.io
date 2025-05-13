@@ -1,6 +1,5 @@
 ---
 title: Home
-nav: True
 ---
 
 # INTERPLAY: First Workshop on the Interplay of Model Behavior and Model Internals
