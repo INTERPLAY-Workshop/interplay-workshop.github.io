@@ -2,7 +2,7 @@
 title: Home
 ---
 
-# INTERPLAY: First Workshop on the Interplay of Model Behavior and Model Internals
+# First Workshop on the Interplay of Model Behavior and Model Internals
 ## A Workshop at the Conference for Language Modeling (COLM ‘25)
 
 
