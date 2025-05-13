@@ -14,12 +14,12 @@ description: "Workshop on synthetic data at the Aarhus Conference 2025"
 keywords: "synthetic, data, AI, NLP, ML, Aarhus, critical theory, computing, conference, workshop"
 
 # author settings for cc-by, appears in the footer
-author: Vagrant Gautam
+author: Andreas Waldis
 pub_year: 2025
-github_username: dippedrusk
+github_username: tresiwald
 
 # add the full url for the github repository
-repo: "https://github.com/synthetic-data-workshop/website/"
+repo: "https://github.com/INTERPLAY-Workshop/interplay-workshop.github.io#"
 
 # site urls
 # Optional if using GitHub Pages! If building manually, these must be set correctly.

@@ -2,21 +2,28 @@
 title: Home
 ---
 
-# Synthetic Data: Representation and/vs Representativeness
-## A Workshop at the Aarhus 2025 Conference
+# INTERPLAY: First Workshop on the Interplay of Model Behavior and Model Internals
+## A Workshop at the Conference for Language Modeling (COLM ‘25)
 
-Synthetic data is increasingly used throughout the AI development pipeline to address three primary challenges surrounding data use - data scarcity, privacy concerns, and data representativeness or diversity.
-With the introduction of the AI Act, these three challenges take on new urgency.
-Creating synthetic data clearly addresses the data scarcity problem and over a decade of research has interrogated the possibilities of differential privacy, yet little attention has been paid to whether and how data diversity is addressed in these systems.
-When applied to data, the term representation has multiple definitions, including both “representativeness,” which describes quantitative metrics of how many instances of a particular kind or grouping are in a dataset, and “representation,” which concerns the qualities that tend to be assigned to groups and individuals.
-In this workshop we will explore synthetic data with a view to this plurality of representation as essential to responsible AI development practices.
 
-<div class="toc" markdown="1">
-## Contents:
+Language models have grown increasingly powerful at performing complex tasks, motivating the study of their behavior as well as internals. However, these two objectives are often pursued in isolation and by distinct research communities. As a result, we lack robust and standardized interpretability methods to comprehensively assess LM behavior in complex, real-world scenarios. To address this gap, this workshop promotes research and discussion on the interplay between behavior and model internals. We aim to explore how understanding internal mechanisms can enhance our knowledge of complex model behaviors—and vice versa.
 
-{% for lesson in site.pages %}
-{% if lesson.nav == true %}- [{{ lesson.title }}]({{ lesson.url | relative_url }}){% endif %}
-{% endfor %}
-</div>
+**Organizers**: Leshem Choshen, Vagrant Gautam, Yufang Hou, Anne Lauscher, Tamar Rott Shaham, Andreas Waldis
 
-Organizers: Hannah Devinney, Katherine Harrison, Vagrant Gautam, and Irina Shklovski
+**Steering Committee**: Jacob Andreas, David Bau, Yonatan Belinkov, Iryna Gurevych, Kyle Mahowald
+
+### News
+
+**May 16** - Call for papers published!
+
+**May 8** - Workshop accepted at COLM ‘25
+
+### Important Dates
+
+**June 23** - Submission due
+
+**July 24** - Acceptance notification
+
+**October 10** - Workshop day
+
+
