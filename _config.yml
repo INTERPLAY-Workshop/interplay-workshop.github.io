@@ -8,10 +8,10 @@
 
 # Site settings
 # title appears in the header
-title: "Synthetic Data"
+title: "INTERPLAY"
 # description and keywords for meta tags
-description: "Workshop on synthetic data at the Aarhus Conference 2025"
-keywords: "synthetic, data, AI, NLP, ML, Aarhus, critical theory, computing, conference, workshop"
+description: "First Workshop on the Interplay of Model Behavior and Model Internals"
+keywords: "AI, NLP, COLM, interpretability, behavioral, internals, conference, workshop"
 
 # author settings for cc-by, appears in the footer
 author: Andreas Waldis
