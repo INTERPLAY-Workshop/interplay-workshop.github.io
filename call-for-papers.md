@@ -4,7 +4,6 @@ nav: true
 ---
 
 # Call for Papers
-## First Workshop on the Interplay of Model Behavior and Model Internals
 
 We invite researchers working on either evaluating model behavior, internals, or both, to submit their work addressing (but not limited to) the following key questions:
 
