@@ -9,6 +9,14 @@
     color: $active-color;
 }
 
+.site-nav{
+    margin-top: 0.6em;
+    font-size: 1.5em;
+}
+.wrapper-header{
+    display: grid !important;
+}
+
 .image-container {
     position: relative;
     display: inline-block;
@@ -34,7 +42,11 @@
     text-align: center;
 }
 
-.overlay-text h2 {
+.overlay-text h1 {
+    font-size: 1em;
+    container-name: sidebar
+}
+.overlay-text h1 {
     font-size: 1em;
     container-name: sidebar
 }
