@@ -26,9 +26,11 @@
     display: block;
     width: 100%;
     height: auto;
-    max-height: 60px !important;
 }
 
+.image-container .logo {
+    max-height: 60px !important;
+}
 .overlay-text {
     position: absolute;
     width: 100%;
