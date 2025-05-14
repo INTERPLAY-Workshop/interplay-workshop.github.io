@@ -46,11 +46,41 @@
     text-align: center;
 }
 
+
 .overlay-text h2 {
-    font-size: 1em !important;
     color: #fff !important;
 }
 .overlay-text h1 {
-    font-size: 1.7em !important;
     color: #fff !important;
+}
+
+
+
+@media screen and (max-width: 600px) {
+    .overlay-text h2 {
+        font-size: 0.7em !important;
+    }
+    .overlay-text h1 {
+        font-size: 1.2em !important;
+    }
+}
+
+
+@media screen and (max-width: 1200px) {
+    .overlay-text h2 {
+        font-size: 1em !important;
+    }
+    .overlay-text h1 {
+        font-size: 1.7em !important;
+    }
+}
+
+
+@media screen and (min-width: 1200px) {
+    .overlay-text h2 {
+        font-size: 1.3em !important;
+    }
+    .overlay-text h1 {
+        font-size: 2.2em !important;
+    }
 }
