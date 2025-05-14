@@ -13,12 +13,6 @@
     position: relative;
 }
 
-.site-nav{
-    position: absolute;
-    right: 10px;
-    top: 0%;
-    font-size: 1.5em;
-}
 .wrapper-header{
     display: grid !important;
 }
@@ -56,6 +50,12 @@
 }
 
 
+.site-nav{
+    position: absolute;
+    right: 10px;
+    top: 0%;
+    font-size: 1.5em;
+}
 
 @media screen and (max-width: 600px) {
     .overlay-text h2 {
@@ -63,6 +63,10 @@
     }
     .overlay-text h1 {
         font-size: 1.1em !important;
+    }
+
+    .site-nav{
+        font-size: 1em !important;
     }
 }
 
