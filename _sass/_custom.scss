@@ -9,8 +9,14 @@
     color: $active-color;
 }
 
+.nav-container{
+    position: relative;
+}
+
 .site-nav{
-    margin-top: 0.6em;
+    position: absolute;
+    right: 10px;
+    top: 18%;
     font-size: 1.5em;
 }
 .wrapper-header{
