@@ -10,11 +10,11 @@ Language models have grown increasingly powerful at performing complex tasks, mo
 **Steering Committee**: Jacob Andreas, David Bau, Yonatan Belinkov, Iryna Gurevych, Kyle Mahowald
 
 ### News
-**May 16** - We look for reviewers, register [here](https://interplay-workshop.limesurvey.net/615291?lang=en)
+* We look for reviewers, register [here](https://interplay-workshop.limesurvey.net/615291?lang=en)
 
-**May 14** - Call for papers published!
+* Call for papers published!
 
-**May 8** - Workshop accepted at COLM25'
+* Workshop accepted at COLM '25!
 
 ### Important Dates
 

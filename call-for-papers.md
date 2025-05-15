@@ -44,8 +44,8 @@ Submissions will be managed via OpenReview (link to appear). All deadlines are a
 **July 24** - Acceptance notification
 
 ### Style Files and Templates
-Please prepare your paper using the official [COLM25' template](https://github.com/COLM-org/Template).
+Please prepare your paper using the official [COLM '25 template](https://github.com/COLM-org/Template).
 
 ### Guides and Policies
-All submissions must follow the COLM25' [guidelines and policies](https://colmweb.org/cfp.html).
+All submissions must follow the COLM '25 [guidelines and policies](https://colmweb.org/cfp.html).
 
