@@ -13,7 +13,7 @@ We invite researchers working on either evaluating model behavior, internals, or
 - How do behavioral and internal evaluations align? Where and why do they differ?
 - How do model size, architecture, and pre-training data influence the link between internals and behavior?
 
-We looking for reviewers, please register [here]We look for reviewer, register [here](https://interplay-workshop.limesurvey.net/615291?lang=en).
+We looking for reviewers, please register [here](https://interplay-workshop.limesurvey.net/615291?lang=en).
 
 ### Submission Format
 Our workshop accepts submissions for three distinct tracks:
