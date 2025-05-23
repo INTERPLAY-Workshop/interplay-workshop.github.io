@@ -37,7 +37,7 @@ We also invite researchers to present related and previously published work at t
 Submissions of all tracks will be presented as posters at the workshop. We will also invite selected submissions for a short talk (5-15 minutes). Please note: At least one author must attend the workshop in person for talks.
 
 ### Reviewing Process & Timeline
-Submissions will be managed via OpenReview (link to appear). All deadlines are anywhere on Earth (AoE).
+Submissions will be managed via [OpenReview](https://openreview.net/group?id=colmweb.org/COLM/2025/Workshop/INTERPLAY). All deadlines are anywhere on Earth (AoE).
 
 **June 23** - Submission due
 
