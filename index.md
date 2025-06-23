@@ -20,7 +20,7 @@ Language models have grown increasingly powerful at performing complex tasks, mo
 
 ### Important Dates
 
-**June 30** - Submission due
+**<del>June 23</del>June 30** - Submission due
 
 **July 24** - Acceptance notification
 
