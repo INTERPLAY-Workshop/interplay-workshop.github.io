@@ -39,7 +39,7 @@ Submissions of all tracks will be presented as posters at the workshop. We will 
 ### Reviewing Process & Timeline
 Submissions will be managed via [OpenReview](https://openreview.net/group?id=colmweb.org/COLM/2025/Workshop/INTERPLAY). All deadlines are anywhere on Earth (AoE).
 
-**June 23** - Submission due
+**June 30** - Submission due
 
 **July 24** - Acceptance notification
 
