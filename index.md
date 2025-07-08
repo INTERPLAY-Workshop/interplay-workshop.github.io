@@ -10,6 +10,8 @@ Language models have grown increasingly powerful at performing complex tasks, mo
 **Steering Committee**: Jacob Andreas, David Bau, Yonatan Belinkov, Iryna Gurevych, Kyle Mahowald
 
 ### News
+* 2nd call for pre-reviewed papers published! Submit your pre-review paper including reviews and response letter [here](https://openreview.net/group?id=colmweb.org/COLM/2025/Workshop/INTERPLAY_Pre_Reviewed#tab-your-consoles).
+
 * We extend the deadline for submission the 30th of June
 
 * We look for reviewers, register [here](https://interplay-workshop.limesurvey.net/615291?lang=en)
@@ -21,6 +23,8 @@ Language models have grown increasingly powerful at performing complex tasks, mo
 ### Important Dates
 
 **<del>June 23</del>June 30** - Submission due
+
+**July 10** - Submission due pre-reviewed paper
 
 **July 24** - Acceptance notification
 

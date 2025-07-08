@@ -33,13 +33,24 @@ Our workshop accepts archival (OpenReview) and non-archival (published or unpubl
 
 We also invite researchers to present related and previously published work at this workshop. If you are interested, [email us](interplay.workshop@proton.me).
 
+### Pre-Reviewed Submissions
+Researchers are welcome to submit papers that have undergone a review process at other venues, such as ARR or COLM, particularly in cases of prior rejections.
+
+If you choose to submit such a paper, you must include the complete reviews, encompassing both the text and scores, from the original review process in your submission's appendix. 
+Any meta-reviews that were provided should also be included if available.
+
+Furthermore, you have the option to include a one-page response letter within the appendix. This letter provides an opportunity to address the (meta-)reviews and elaborate on how you may have revised your paper in response to the feedback received.
+
 ### Presentation Format
 Submissions of all tracks will be presented as posters at the workshop. We will also invite selected submissions for a short talk (5-15 minutes). Please note: At least one author must attend the workshop in person for talks.
 
 ### Reviewing Process & Timeline
+Pre-Reviewed submissions will be managed via a separate [OpenReview](https://openreview.net/group?id=colmweb.org/COLM/2025/Workshop/INTERPLAY_Pre_Reviewed#tab-your-consoles) event. All deadlines are anywhere on Earth (AoE).
 Submissions will be managed via [OpenReview](https://openreview.net/group?id=colmweb.org/COLM/2025/Workshop/INTERPLAY). All deadlines are anywhere on Earth (AoE).
 
-**<del>June 23</del>June 30** - Submission due
+**<del>June 30** - Submission due</del>
+
+**July 10** - Submission due pre-reviewed paper
 
 **July 24** - Acceptance notification
 
