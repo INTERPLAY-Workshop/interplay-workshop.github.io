@@ -33,7 +33,7 @@ Our workshop accepts archival (OpenReview) and non-archival (published or unpubl
 
 We also invite researchers to present related and previously published work at this workshop. If you are interested, [email us](interplay.workshop@proton.me).
 
-### Pre-Reviewed Submissions
+### 🚨Pre-Reviewed Submissions🚨
 Researchers are welcome to submit papers that have undergone a review process at other venues, such as ARR or COLM, particularly in cases of prior rejections.
 
 If you choose to submit such a paper, you must include the complete reviews, encompassing both the text and scores, from the original review process in your submission's appendix. 
