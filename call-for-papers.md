@@ -40,12 +40,13 @@ If you choose to submit such a paper, you must include the complete reviews, enc
 Any meta-reviews that were provided should also be included if available.
 
 Furthermore, you have the option to include a one-page response letter within the appendix. This letter provides an opportunity to address the (meta-)reviews and elaborate on how you may have revised your paper in response to the feedback received.
-Pre-Reviewed submissions will be managed via a separate [OpenReview](https://openreview.net/group?id=colmweb.org/COLM/2025/Workshop/INTERPLAY_Pre_Reviewed#tab-your-consoles) event. All deadlines are anywhere on Earth (AoE).
+Pre-Reviewed submissions will be managed via a separate [OpenReview](https://openreview.net/group?id=colmweb.org/COLM/2025/Workshop/INTERPLAY_Pre_Reviewed#tab-your-consoles) event. 
 
 ### Presentation Format
 Submissions of all tracks will be presented as posters at the workshop. We will also invite selected submissions for a short talk (5-15 minutes). Please note: At least one author must attend the workshop in person for talks.
 
 ### Reviewing Process & Timeline
+All deadlines are anywhere on Earth (AoE).
 
 <del>**June 30** - Submission due</del>
 
