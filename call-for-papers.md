@@ -16,7 +16,7 @@ We invite researchers working on either evaluating model behavior, internals, or
 We are looking for reviewers, please register [here](https://interplay-workshop.limesurvey.net/615291?lang=en).
 
 ### Submission Format
-Our workshop accepts archival (OpenReview) and non-archival (published or unpublished) submissions for three distinct tracks:
+Our workshop accepts archival (opt-in after acceptance) and non-archival (published or unpublished) submissions for three distinct tracks:
 
 **1) Main Track**
 - Empirical, methodological, or theoretical contributions
