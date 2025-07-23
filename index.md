@@ -24,7 +24,7 @@ Language models have grown increasingly powerful at performing complex tasks, mo
 
 <del>**June 30** - Submission due</del>
 
-**July 10** - Submission due pre-reviewed paper
+<del>**July 10** - Submission due pre-reviewed paper</del>
 
 **July 24** - Acceptance notification
 
