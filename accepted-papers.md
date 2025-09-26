@@ -5,6 +5,8 @@ nav: true
 
 # Accepted Papers
 
+We are super happy to have the following paper at our workshop:
+
 ### [Analyzing Representational Shifts in Multimodal Models: A Study of Feature Dynamics in Gemma and PaliGemma](https://openreview.net/forum?id=FiVBgTrsHJ)
 **Authors:** Aaron C Friedman, Trinabh Gupta, Raine Ma, Sean O'Brien, Kevin Zhu, Cole Blondin
 
