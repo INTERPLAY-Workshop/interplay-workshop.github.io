@@ -12,6 +12,7 @@ Language models have grown increasingly powerful at performing complex tasks, mo
 ### News
 * We super happy that [25 accepted papers](http://interplay-workshop.github.io/accepted-papers.html) will be presented at the INTERPLAY workshop. 
 
+
 * 🚨2nd call for pre-reviewed papers published! Submit your pre-review paper including reviews and response letter [here](https://openreview.net/group?id=colmweb.org/COLM/2025/Workshop/INTERPLAY_Pre_Reviewed#tab-your-consoles).🚨
 
 * We extend the deadline for submission the 30th of June
