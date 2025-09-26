@@ -1,5 +1,5 @@
 ---
-title: Schedule
+title: Accepted Papers
 nav: true
 ---
 
