@@ -1,6 +1,6 @@
 ---
 title: Call for Papers
-nav: true
+nav: false
 ---
 
 # Call for Papers
