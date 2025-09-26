@@ -3,7 +3,14 @@ title: Home
 ---
 
 
-Language models have grown increasingly powerful at performing complex tasks, motivating the study of their behavior and internals. However, distinct research communities often pursue these two objectives in isolation. As a result, we lack robust and standardized interpretability methods to assess LM behavior in complex, real-world scenarios comprehensively. This workshop promotes research and discussion on the interplay between behavior and model internals to address this gap. We aim to explore how understanding internal mechanisms can enhance our knowledge of complex model behaviors, and vice versa.
+Language models have grown increasingly powerful at performing complex tasks, motivating the study of their behavior and internals. However, distinct research communities often pursue these two objectives in isolation. As a result, we lack robust and standardized interpretability methods to assess LM behavior in complex, real-world scenarios comprehensively. This workshop promotes research and discussion on the interplay between behavior and model internals to address this gap. We aim to explore how understanding internal mechanisms can enhance our knowledge of complex model behaviors, and vice versa, by addressing the key questions such as:
+
+- How can we jointly evaluate model behavior and internals?
+- How do model interventions influence behavior, internals, and their interplay?
+- How can we disentangle the influence of internal dynamics from external behavior?
+- How do behavioral and internal evaluations align? Where and why do they differ?
+- How do model size, architecture, and pre-training data influence the link between internals and behavior?
+
 
 **Organizers**: Leshem Choshen, Vagrant Gautam, Yufang Hou, Anne Lauscher, Tamar Rott Shaham, Andreas Waldis
 
