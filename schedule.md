@@ -6,7 +6,9 @@ nav: true
 # Schedule
 
 **09:00 am**: Opening remarks
+
 ** ** 
+
 **09:10 am**: Invited talks
 
 **[Sarah Wiegreffe](https://sarahwie.github.io/), Assistant Professor, Department of Computer Science, University of Maryland**
@@ -39,7 +41,6 @@ nav: true
 ** ** 
 
 **12:00 pm**: Organized lunch
-** ** 
 
 **01:00 pm**: Invited talk
 
@@ -52,12 +53,9 @@ nav: true
 >Building a More Predictive Science of Language Model Behaviors with Interpretability
 
 **02:00 pm** Poster session
-** ** 
 
 **03:15 pm** Round table discussion and coffee break
-** ** 
 
 **04:45 pm** Closing remarks
-** ** 
 
 **05:00 pm** Workshop social TBD
