@@ -48,7 +48,7 @@ nav: true
 
 ** ** 
 
-**01:00 pm**: Invited talk
+**01:00 pm**: Invited talks
 
 
 **[Kyle Mahowald](https://mahowak.github.io/)** *Assistant Professor in Linguistics at University of Texas at Austin*
