@@ -11,11 +11,15 @@ nav: true
 
 **09:10 am**: Invited talks
 
-**[Sarah Wiegreffe](https://sarahwie.github.io/), Assistant Professor, Department of Computer Science, University of Maryland**
+**[Sarah Wiegreffe](https://sarahwie.github.io/)** *Assistant Professor, Department of Computer Science, University of Maryland*
 
 >If steering is the answer, what was the question?
 
-**[John Hewitt](https://www.cs.columbia.edu/~johnhew/), Assistant Professor of Computer Science, Columbia University**
+**[John Hewitt](https://www.cs.columbia.edu/~johnhew/)** *Assistant Professor of Computer Science, Columbia University*
+
+>
+
+** ** 
 
 
 **10:20 am**: Workshop paper talks and coffee break (11:05am)
@@ -42,20 +46,34 @@ nav: true
 
 **12:00 pm**: Organized lunch
 
+** ** 
+
 **01:00 pm**: Invited talk
 
 
-**[Kyle Mahowald](https://mahowak.github.io/), Assistant Professor in Linguistics at University of Texas at Austin**
+**[Kyle Mahowald](https://mahowak.github.io/)** *Assistant Professor in Linguistics at University of Texas at Austin*
 >The INTERPLAY Between Verbal Representations and Verbal Behavior
 
-**[Aaron Mueller](https://aaronmueller.github.io/), Assistant Professor of Computer Science of Data Science at Boston University**
+**[Aaron Mueller](https://aaronmueller.github.io/)** *Assistant Professor of Computer Science of Data Science at Boston University*
 
 >Building a More Predictive Science of Language Model Behaviors with Interpretability
 
+
+** ** 
+
 **02:00 pm** Poster session
+
+
+** ** 
 
 **03:15 pm** Round table discussion and coffee break
 
+
+** ** 
+
 **04:45 pm** Closing remarks
+
+
+** ** 
 
 **05:00 pm** Workshop social TBD
