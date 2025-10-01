@@ -9,11 +9,13 @@ nav: true
 ** ** 
 **09:10 am**: Invited talks
 
-**If steering is the answer, what was the question?** 
->[Sarah Wiegreffe](https://sarahwie.github.io/), Assistant Professor, Department of Computer Science, University of Maryland
+**[Sarah Wiegreffe](https://sarahwie.github.io/), Assistant Professor, Department of Computer Science, University of Maryland**
 
-[John Hewitt](https://www.cs.columbia.edu/~johnhew/), Assistant Professor of Computer Science, Columbia University
-** ** 
+>If steering is the answer, what was the question?
+
+**[John Hewitt](https://www.cs.columbia.edu/~johnhew/), Assistant Professor of Computer Science, Columbia University**
+
+
 **10:20 am**: Workshop paper talks and coffee break (11:05am)
 
 [Query-Focused Retrieval Heads Improve Long-Context Reasoning and Re-ranking.](https://openreview.net/forum?id=madN8XeB7s)
@@ -41,15 +43,13 @@ nav: true
 
 **01:00 pm**: Invited talk
 
-**The INTERPLAY Between Verbal Representations and Verbal Behavior**
 
->[Kyle Mahowald](https://mahowak.github.io/), Assistant Professor in Linguistics at University of Texas at Austin
+**[Kyle Mahowald](https://mahowak.github.io/), Assistant Professor in Linguistics at University of Texas at Austin**
+>The INTERPLAY Between Verbal Representations and Verbal Behavior
 
+**[Aaron Mueller](https://aaronmueller.github.io/), Assistant Professor of Computer Science of Data Science at Boston University**
 
-**Building a More Predictive Science of Language Model Behaviors with Interpretability** 
-
->[Aaron Mueller](https://aaronmueller.github.io/), Assistant Professor of Computer Science of Data Science at Boston University.
-** ** 
+>Building a More Predictive Science of Language Model Behaviors with Interpretability
 
 **02:00 pm** Poster session
 ** ** 
