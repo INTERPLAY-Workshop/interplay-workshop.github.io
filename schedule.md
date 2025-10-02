@@ -13,7 +13,7 @@ nav: true
 
 **[Sarah Wiegreffe](https://sarahwie.github.io/)** *Assistant Professor, Department of Computer Science, University of Maryland*
 
->If steering is the answer, what was the question?
+> ### If steering is the answer, what was the question?
 
 **[John Hewitt](https://www.cs.columbia.edu/~johnhew/)** *Assistant Professor of Computer Science, Columbia University*
 
@@ -52,11 +52,11 @@ nav: true
 
 
 **[Kyle Mahowald](https://mahowak.github.io/)** *Assistant Professor in Linguistics at University of Texas at Austin*
->The INTERPLAY Between Verbal Representations and Verbal Behavior
+> ### The INTERPLAY Between Verbal Representations and Verbal Behavior
 
 **[Aaron Mueller](https://aaronmueller.github.io/)** *Assistant Professor of Computer Science of Data Science at Boston University*
 
->Building a More Predictive Science of Language Model Behaviors with Interpretability
+> ### Building a More Predictive Science of Language Model Behaviors with Interpretability
 
 
 ** ** 
