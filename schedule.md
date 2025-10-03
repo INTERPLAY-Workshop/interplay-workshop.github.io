@@ -68,6 +68,12 @@ nav: true
 
 **03:15 pm** Round table discussion and coffee break
 
+Moderated by
+[Aaron Mueller](https://aaronmueller.github.io/),
+[John Hewitt](https://www.cs.columbia.edu/~johnhew/),
+[Kanishka Misra](https://kanishka.website/),
+[Kyle Mahowald](https://mahowak.github.io/),
+[Marius Mosbach](https://mariusmosbach.com/)
 
 ** ** 
 
