@@ -61,12 +61,12 @@ nav: true
 
 ** ** 
 
-**02:00 pm** Poster session
+**02:10 pm** Poster session
 
 
 ** ** 
 
-**03:15 pm** Round table discussion and coffee break
+**03:20 pm** Round table discussion and coffee break
 
 Moderated by
 [Aaron Mueller](https://aaronmueller.github.io/),
@@ -77,7 +77,7 @@ Moderated by
 
 ** ** 
 
-**04:45 pm** Closing remarks
+**04:50 pm** Closing remarks
 
 
 ** ** 
