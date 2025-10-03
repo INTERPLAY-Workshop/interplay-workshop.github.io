@@ -3,7 +3,7 @@ title: Schedule
 nav: true
 ---
 
-# Schedule (Friday, October 10th, 2025 @ Room 518C)
+# Schedule (Friday, October 10th @ Room 518C)
 
 **09:00 am**: Opening remarks
 
