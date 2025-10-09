@@ -13,7 +13,7 @@ nav: true
 
 **[Sarah Wiegreffe](https://sarahwie.github.io/)** *Assistant Professor, Department of Computer Science, University of Maryland*
 
-> ### If steering is the answer, what was the question?
+> ### Interpretability as the Inverse Machine Learning Pipeline
 
 **[John Hewitt](https://www.cs.columbia.edu/~johnhew/)** *Assistant Professor of Computer Science, Columbia University*
 
