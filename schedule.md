@@ -17,7 +17,7 @@ nav: true
 
 **[John Hewitt](https://www.cs.columbia.edu/~johnhew/)** *Assistant Professor of Computer Science, Columbia University*
 
->
+> ### Interplay research is alignment research with a big bet
 
 ** ** 
 
